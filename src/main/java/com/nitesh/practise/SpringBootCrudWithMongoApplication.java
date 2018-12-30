@@ -8,7 +8,6 @@ public class SpringBootCrudWithMongoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudWithMongoApplication.class, args);
-		//testing branch
 	}
 
 }
